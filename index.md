@@ -1,4 +1,4 @@
-#Terms and Conditions Summary for @binlistrobot
+Terms and Conditions Summary for @binlistrobot
 Last Updated: May 13, 2025
 
 By using the @binlistrobot Telegram Bot (the "Bot"), you agree to these summarized Terms and Conditions. For full details, please refer to the complete Terms and Conditions document [Optional: Add link here if you create a separate, more detailed T&C file, e.g., (see TERMS.md)].
