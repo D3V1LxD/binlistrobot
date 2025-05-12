@@ -1,33 +1,43 @@
-Our privacy is important to us. This Privacy Policy explains how the BIN Lookup Bot collects, uses, and protects the information you provide when using our service.
+Terms and Conditions Summary for @binlistrobot
+Last Updated: May 13, 2025
 
-1. Information We Collect
-The Bot collects only the following information when you use it:
+By using the @binlistrobot Telegram Bot (the "Bot"), you agree to these summarized Terms and Conditions. For full details, please refer to the complete Terms and Conditions document [Optional: Add link here if you create a separate, more detailed T&C file, e.g., (see TERMS.md)].
 
-BIN (Bank Identification Number): A 6- to 8-digit number input by the user for lookup purposes.
+Service Overview:
 
-We do not collect any personally identifiable information (PII) such as full credit card numbers, names, addresses, or contact details.
+The Bot provides Bank Identification Number (BIN) lookup services using the external API lookup.binlist.net.
+It displays information such as bank, scheme, brand, type, and country associated with a BIN.
+Results include attribution to the user requesting the lookup, the Bot's username (@binlistrobot), and a contact link to the Bot's Administrator.
+The designated Bot Administrator (Telegram User ID: 2062370002) can broadcast messages to users who have interacted with the Bot.
+Acceptance of Terms:
 
-2. How We Use the Information
-We use the BIN provided by you solely to:
+Your use of the Bot (e.g., sending /start, /bin) constitutes your acceptance of these terms.
+Data Privacy & Storage:
 
-Look up and display card issuer information such as country, vendor, card type, level, and issuing bank.
+User IDs: The Bot stores your Telegram chat_id in a local JSON file (bot_user_ids.json) when you interact with it. This is necessary for the Bot to reply to your commands and for the Administrator to send broadcast messages.
+BIN Queries: BINs you query are sent to lookup.binlist.net. The Bot itself does not store these queried BINs long-term.
+No Other Personal Data: The Bot does not intentionally collect or store other personal data beyond what is essential for its operation and provided by Telegram (like your first name and username for attribution).
+Data Security: While reasonable efforts are made, 100% security of stored chat_ids cannot be guaranteed.
+User Responsibilities:
 
-This information is processed in real-time and not stored on our servers or shared with third parties.
+You agree to use the Bot lawfully and not to misuse, spam, or attempt to exploit it.
+Information from the BIN lookup is for informational purposes and should be used responsibly.
+Administrator & Broadcasts:
 
-3. Data Storage
-We do not store, log, or retain any BINs or lookup results. All lookups are temporary and session-based.
+The Bot Administrator (User ID: 2062370002) may send broadcast messages to all registered users.
+By using the Bot, you acknowledge you may receive such broadcasts. You can block the Bot to stop receiving messages.
+Third-Party API (lookup.binlist.net):
 
-4. Third-Party Services
-If the Bot uses external BIN databases or APIs, those services may have their own privacy policies. We recommend reviewing them separately if applicable.
+The Bot relies on lookup.binlist.net for BIN data. We are not responsible for the accuracy, availability, or content from this third-party service.
+Disclaimers:
 
-5. Security
-We implement standard security measures to ensure that any data transmitted during the lookup process is protected. However, as with any digital service, we cannot guarantee absolute security.
+The Bot is provided "AS IS" and "AS AVAILABLE" without warranties of any kind regarding its operation, accuracy of information, or uptime.
+Limitation of Liability:
 
-6. Children's Privacy
-This service is not intended for use by individuals under the age of 13, and we do not knowingly collect data from children.
+The Bot owner/developer shall not be liable for any damages arising from your use or inability to use the Bot.
+Changes to Terms:
 
-7. Changes to This Policy
-We may update this Privacy Policy from time to time. Changes will be posted with an updated effective date.
+These terms may be updated. Continued use of the Bot after changes implies acceptance. Major changes will be communicated if feasible (e.g., via broadcast).
+Contact:
 
-8. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at: t.me/@Beluga_Tele
+For issues or questions, you can try to contact the Bot Administrator, for example, through the link provided in BIN lookup results which directs to tg://user?id=2062370002.
